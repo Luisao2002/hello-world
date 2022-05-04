@@ -1,2 +1,2 @@
 # hello-world
-teste de repositorio
+Para realizar a aprendizagem sobre o github foi criado um repositório hello world.
